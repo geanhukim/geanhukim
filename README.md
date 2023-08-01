@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**geanhukim/geanhukim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=b9d3ff&height=200&section=header&text=Hi%20Hello&fontSize=90)  
+  
 
-Here are some ideas to get you started:
+ ### What I Use
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+ <img src="https://img.shields.io/badge/spring boot-DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geanhukim&show_icons=true&theme=radical)
+
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=123rmsgn)](https://solved.ac/123rmsgn)
+</div>
